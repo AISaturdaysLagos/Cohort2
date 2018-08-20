@@ -17,7 +17,7 @@ def compute_cost(X, y, theta):
     #               You should set J to the cost.
 
     
-    
+    J = (1/(2*m))*np.sum((np.dot(X,theta) - y)**2)
 
     
 

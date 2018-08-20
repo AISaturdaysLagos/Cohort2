@@ -21,7 +21,14 @@ def gradient_descent(X, y, theta, alpha, num_iters):
         #
         
         
-       
+        h_of_x = np.dot(X,theta)
+        
+        error_x = (alpha*(1/m))*np.sum((h_of_x-y).reshape(m,1)*X, axis = 0)
+        
+        theta = theta - error_x
+        
+        
+        
 
 
 
