@@ -1,5 +1,5 @@
 
-#This is the repository for AI6 Lagos Beginners class course materials
+This is the repository for AI6 Lagos Beginners class course materials
 - Week 1 [Slides](https://docs.google.com/presentation/d/12rIRShcrA2HPy-7dh56qbn3RjdNdxtLfwTGv9bUJT_c/edit?usp=sharing).
 - Week 2 [Slides](https://docs.google.com/presentation/d/1Rl-WhvKHFzml2eI667nOgJ3I2lIohMx1lKtIXbOkZy0/edit?usp=sharing).
 - Week 3 [Slides](https://docs.google.com/presentation/d/1WhqbJt52SZEkqPs7x_qdjzjAswuSWA4aW7yeNsrokaM/edit?usp=sharing).
