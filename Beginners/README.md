@@ -8,5 +8,5 @@ This is the repository for AI6 Lagos Beginners class course materials
 - Week 6 [Slides](https://docs.google.com/presentation/d/1a3dy7rzX2FYyXV78cGG4p0TOTJuKBGaSCTK1fXX5Bok/edit?usp=sharing).
 
 ## Group Project
-[MNIST starter guide](https://colab.research.google.com/drive/1ROZ4K77T9gPP1swS5aFDcAQGxaCDmkH6).
-[FASHION MNIST starter guide](https://colab.research.google.com/drive/1EdQwOLrJ2SYhg4O1gbOLgOgITkPOlxIE).
+-[MNIST starter guide](https://colab.research.google.com/drive/1ROZ4K77T9gPP1swS5aFDcAQGxaCDmkH6).
+-[FASHION MNIST starter guide](https://colab.research.google.com/drive/1EdQwOLrJ2SYhg4O1gbOLgOgITkPOlxIE).
