@@ -11,6 +11,7 @@ This is the repository for AI6 Lagos Beginners class course materials
 - Week 9 [Slides](https://docs.google.com/presentation/d/1eGLLkpYClw6LfUvvLql_CEMvH4WKR7N-0eR8gFnfb5s/edit?usp=sharing).
 - Week 10 [Slides](https://docs.google.com/presentation/d/1A7a2KagPiTjFyLTqJIJaebeRZLlBF4nBD6-vGwcn7ak/edit?usp=sharing).
 - Week 11 [Slides](https://docs.google.com/presentation/d/1ENMjD1K9CeC2adAF0dkAgZAU0skOrDycFs3jFnWYy3w/edit?usp=sharing).
+- Week 12 [Slides](https://docs.google.com/presentation/d/1p6hBtT9l0grUZzw9DB6MK-VZanzZL5Pa8QBUnuy9O9w/edit?usp=sharing).
 
 ## Group Project
 - [MNIST starter guide](https://colab.research.google.com/drive/1ROZ4K77T9gPP1swS5aFDcAQGxaCDmkH6).
