@@ -3,4 +3,4 @@
 ### Instructors:
 - [Tejumade Afonja](https://tejuafonja.com/)
 - [Igwegbe George](#)
-- [Lawrence Dike](#)
+- [Lawrence Francis](#)
