@@ -3,7 +3,7 @@
 - [Slides](https://docs.google.com/presentation/d/12rIRShcrA2HPy-7dh56qbn3RjdNdxtLfwTGv9bUJT_c/edit?usp=sharing).
 
 
-### Practical Learning Resources
+### Coding Resources
 
 - [Kaggle Python Tutorial Series](https://www.kaggle.com/learn/python?utm_medium=social&utm_source=twitter.com&utm_campaign=new%20python%20course%20announcement)
 
